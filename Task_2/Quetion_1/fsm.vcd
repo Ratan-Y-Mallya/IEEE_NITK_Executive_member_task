@@ -1,0 +1,234 @@
+$date
+	Tue Jan 21 23:50:12 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module fsmcomb_tb $end
+$var wire 1 ! out $end
+$var reg 1 " clk $end
+$var reg 1 # in $end
+$var reg 1 $ reset $end
+$scope module dut $end
+$var wire 1 " clk $end
+$var wire 1 # in $end
+$var wire 1 $ reset $end
+$var wire 1 % out3 $end
+$var wire 1 & out2 $end
+$var wire 1 ' out1 $end
+$var reg 1 ! out $end
+$scope module g011 $end
+$var wire 1 " clk $end
+$var wire 1 # in $end
+$var wire 1 $ reset $end
+$var parameter 2 ( A $end
+$var parameter 2 ) B $end
+$var parameter 2 * C $end
+$var reg 2 + next [1:0] $end
+$var reg 1 & out $end
+$var reg 2 , present [1:0] $end
+$upscope $end
+$scope module g101 $end
+$var wire 1 " clk $end
+$var wire 1 # in $end
+$var wire 1 $ reset $end
+$var parameter 2 - A $end
+$var parameter 2 . B $end
+$var parameter 2 / C $end
+$var reg 2 0 next [1:0] $end
+$var reg 1 ' out $end
+$var reg 2 1 present [1:0] $end
+$upscope $end
+$scope module g11x $end
+$var wire 1 " clk $end
+$var wire 1 # in $end
+$var wire 1 $ reset $end
+$var parameter 2 2 A $end
+$var parameter 2 3 B $end
+$var parameter 2 4 C $end
+$var reg 2 5 next [1:0] $end
+$var reg 1 % out $end
+$var reg 2 6 present [1:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b10 4
+b1 3
+b0 2
+b10 /
+b1 .
+b0 -
+b10 *
+b1 )
+b0 (
+$end
+#0
+$dumpvars
+b0 6
+b0 5
+b0 1
+b0 0
+b0 ,
+b1 +
+0'
+0&
+0%
+1$
+0#
+0"
+0!
+$end
+#5
+1"
+#10
+0"
+0$
+#15
+b1 ,
+1"
+#20
+0"
+#25
+1"
+#30
+b10 +
+b1 0
+b1 5
+0"
+1#
+#35
+1&
+b0 +
+b10 5
+b1 1
+b10 ,
+b1 6
+1"
+#40
+0&
+b1 +
+b10 0
+b0 5
+0"
+0#
+#45
+b0 0
+b0 6
+b1 ,
+b10 1
+1"
+#50
+1!
+b10 +
+1'
+b1 0
+b1 5
+0"
+1#
+#55
+0'
+1&
+b0 +
+b10 5
+b1 1
+b10 ,
+b1 6
+1"
+#60
+0!
+0&
+b1 +
+b10 0
+b0 5
+0"
+0#
+#65
+b0 0
+b0 6
+b1 ,
+b10 1
+1"
+#70
+1!
+b10 +
+1'
+b1 0
+b1 5
+0"
+1#
+#75
+0'
+1&
+b0 +
+b10 5
+b1 1
+b10 ,
+b1 6
+1"
+#80
+0"
+#85
+1%
+b0 5
+0&
+b10 6
+b0 ,
+1"
+#90
+b1 +
+b10 0
+0"
+0#
+#95
+b0 0
+0%
+b10 1
+b1 ,
+b0 6
+1"
+#100
+0!
+0"
+#105
+b0 1
+1"
+#110
+b10 +
+b1 0
+b1 5
+0"
+1#
+#115
+1&
+b0 +
+b10 5
+b1 1
+b10 ,
+b1 6
+1"
+#120
+0&
+b1 +
+b10 0
+b0 5
+0"
+0#
+#125
+b0 0
+b0 6
+b1 ,
+b10 1
+1"
+#130
+0"
+#135
+b0 1
+1"
+#140
+0"

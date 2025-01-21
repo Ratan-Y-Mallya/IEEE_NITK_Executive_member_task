@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.48 (w)1999-2013 BSI
+[*] Tue Jan 21 18:22:21 2025
+[*]
+[dumpfile] "C:\Users\ymrat\OneDrive\Desktop\verilog_tasks\IEEE_NITK_Executive_member_task\Task_2\Quetion_1\fsm.vcd"
+[dumpfile_mtime] "Tue Jan 21 18:20:12 2025"
+[dumpfile_size] 2287
+[savefile] "C:\Users\ymrat\OneDrive\Desktop\verilog_tasks\IEEE_NITK_Executive_member_task\Task_2\Waveform"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.388945 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+fsmcomb_tb.clk
+fsmcomb_tb.in
+fsmcomb_tb.out
+[pattern_trace] 1
+[pattern_trace] 0
